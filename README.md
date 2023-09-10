@@ -1,2 +1,3 @@
 # store_code
-my fist project
+this is my fist git repository
+Author- Aasib khan
